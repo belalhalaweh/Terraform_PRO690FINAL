@@ -1,6 +1,6 @@
 
 trigger:
-- master
+- masterPipeline
 
 pool:
   name: 'Hosted VS2017'
